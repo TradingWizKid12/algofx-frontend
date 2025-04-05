@@ -132,7 +132,7 @@ function App() {
         <div className="text-center">
           <div className="relative inline-block">
             <img
-              src="src="/logo-algofxsignals.jpeg""
+              src="/logo-algofxsignals.jpeg"
               alt="Profile"
               className="w-24 h-24 rounded-full mx-auto mb-4 ring-4 ring-blue-500/50"
             />
