@@ -111,7 +111,7 @@ function App() {
     },
     {
       title: 'Get AutoPips Signal Copier',
-      url: 'https://copier.algofxsignals.com/view/SLeB3RyCrD432RNu',
+      url: 'https://copier.algofxsignals.com/',
       icon: <Copy className="w-5 h-5" />,
       bgColor: 'bg-purple-500',
       hoverColor: 'hover:bg-purple-600',
