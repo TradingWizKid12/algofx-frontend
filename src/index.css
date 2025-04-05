@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .link-card {
+    @apply flex items-center gap-3 p-4 rounded-lg transition-all transform hover:scale-[1.02];
+  }
+}
