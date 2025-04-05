@@ -132,7 +132,7 @@ function App() {
         <div className="text-center">
           <div className="relative inline-block">
             <img
-              src="https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/578bef02b59603dc1d8da018a394d883~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=3f11c1bb&x-expires=1743678000&x-signature=Vjdnd%2F3k032GlZ%2BAOm7Wv1vP5hY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my"
+              src="src="/logo-algofxsignals.jpeg""
               alt="Profile"
               className="w-24 h-24 rounded-full mx-auto mb-4 ring-4 ring-blue-500/50"
             />
